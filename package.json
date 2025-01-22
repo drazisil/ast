@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/drazisil/ast#readme",
   "devDependencies": {
-    "mocha": "11.0.1",
+    "mocha": "11.1.0",
     "ts-node": "10.9.2",
     "typescript": "5.7.3"
   }
